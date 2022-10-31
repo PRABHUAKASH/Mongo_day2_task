@@ -1,0 +1,2 @@
+{"_id":{"$oid":"6347ee0b10ab555e6021a5bd"},"id":{"$numberInt":"1"},"attendence":true}
+{"_id":{"$oid":"6347ee0b10ab555e6021a5be"},"id":{"$numberInt":"2"},"attendence":false}
